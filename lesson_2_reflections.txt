@@ -34,3 +34,10 @@ regular updating and debugging. Branches allow you to keep
 track of one version where the only element changing is 
 your experimental feature, while permitting you to separately 
 perform the routine changes.
+
+5- How do the diagrams help you visualize the branch structure?
+
+Diagrams allow you to see which commits and commit IDs 
+split from the master to form new branches, while still seeing
+every unique branch, including the master. Log does not do 
+this in a way that visually intuitive.
