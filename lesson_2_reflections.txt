@@ -41,3 +41,14 @@ Diagrams allow you to see which commits and commit IDs
 split from the master to form new branches, while still seeing
 every unique branch, including the master. Log does not do 
 this in a way that visually intuitive.
+
+6- What is the result of merging two branches together? Why do 
+we represent it in the diagram the way we do?
+
+Merging the two branches effectively combined the changes 
+from the separate coins branch into the master branch, also
+making it the "tip" of the master branch. We represent it 
+the way we do in the diagram because it shows how what 
+once two separate branches with unique commits, these now 
+have merged and now follow one branch of commits but still 
+can be traced back through individual branches.
