@@ -23,3 +23,14 @@ By using 'git diff' and 'git diff --staged' you can double check
  the changes before committing. This way you can compare on 
 an ongoing basis between workgroup and staged, and staged and 
 master in the repository.
+
+4- What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+Some situations are when you are doing experimental features 
+which you are not sure you want to incorporate into ongoing 
+versions of your game while keeping at least one ongoing for 
+regular updating and debugging. Branches allow you to keep 
+track of one version where the only element changing is 
+your experimental feature, while permitting you to separately 
+perform the routine changes.
