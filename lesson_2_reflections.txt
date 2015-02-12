@@ -15,3 +15,11 @@ is a collection of previous commits cataloging the changes
 you have made over time. The staging area works as an in-between 
 where you load a file or groups of files to commit them to the 
 repository as a most recent version.
+
+3- How can you use the staging area to make sure you have one 
+commit per logical change?
+
+By using 'git diff' and 'git diff --staged' you can double check
+ the changes before committing. This way you can compare on 
+an ongoing basis between workgroup and staged, and staged and 
+master in the repository.
