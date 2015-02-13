@@ -44,3 +44,15 @@ where your version started diverging from the last remote commit,
 for example whether it has been altered at all and can be a simple 
 push, or if there are more recent remote commits you will have to 
 either merge or fast-forward merge.
+
+5- How would you collaborate without using Git or Github? What would 
+be easier, and what would be harder?
+
+The two options would be to collaborate manually, but sending files 
+back and forth between collaborators, or using a cloud-based sharing 
+program. What would be easier would be to have a single working copy 
+that is used, and having to just save or save and send. What would be 
+harder is just about everything else, such as only one person working 
+on it at a time, how to coordinate several people working at the same 
+time, how to track branches you may not know about, not knowing which 
+file is current, and how to best track commits and merge.
