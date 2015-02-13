@@ -6,3 +6,15 @@ so that anyone who felt they might make a positive contribution could volunteer 
 commit. A second major reason is to work from projects from various locations/terminals 
 without having to physically move around your repository by simply accessing github 
 from whichever terminal you need to and have access to the most recent commits.
+
+2- Why might you want to always pull changes manually rather 
+than having Git automatically stay up-to-date with your remote 
+repository?
+
+You would want to do it manually because if multiple contributors 
+are performing commits, you might be working on a version that 
+gets pulled. Another issue might be that it does not make sense 
+to automatically update if one works from various locations; there 
+is not point constantly updating to a terminal throughout the 
+when only the final commit being worked on from a different 
+location would need to be pulled.
