@@ -1,0 +1,8 @@
+1- When would you want to use a remote repository rather than keeping all your work local?
+
+One major reason to use a remote repository is to collaborate with various users on 
+a project. This usefulness could be magnified when trying to open source a project 
+so that anyone who felt they might make a positive contribution could volunteer a 
+commit. A second major reason is to work from projects from various locations/terminals 
+without having to physically move around your repository by simply accessing github 
+from whichever terminal you need to and have access to the most recent commits.
