@@ -56,3 +56,17 @@ harder is just about everything else, such as only one person working
 on it at a time, how to coordinate several people working at the same 
 time, how to track branches you may not know about, not knowing which 
 file is current, and how to best track commits and merge.
+
+6- When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+I would make changes in a separate branch if I were working on an 
+additional feature or idea that may not be part of the current main 
+purpose of a collaboration project. That way I could work on it without 
+breaking or cluttering the public master and eventually propose the 
+changes to someone else. The benefits to a branch are the flexibility 
+I previously mentioned. The benefits to directly working in master is 
+the simplicity of the workflow. At the same time, it might result in 
+breaking master for everyone collaborating, and not just yourself. 
+This becomes especially important when working with an open source project 
+or community.
