@@ -18,3 +18,18 @@ to automatically update if one works from various locations; there
 is not point constantly updating to a terminal throughout the 
 when only the final commit being worked on from a different 
 location would need to be pulled.
+
+3- Describe the differences between forks, clones, and branches. 
+When would you use one instead of another.
+
+Forks are copying someone else's repository on Github to your 
+own profile to continue work independently from the original. 
+Clones make a full copy of a repository, either on Github or 
+on Git in your own repository, or across Git and Github. 
+Branches are a separate series of commits based off a master, 
+but not copied. You would use fork's when copying a repository 
+from Github you would like to work on but do not have 
+permission to access. Clone would be when you want to copy 
+repositories from Github or within Git. Branches are when 
+you want to work on a feature of program without breaking 
+your master version and keeping the Master accessible.
